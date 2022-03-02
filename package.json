@@ -1,0 +1,15 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "Test autour de Node/NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "hello": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}

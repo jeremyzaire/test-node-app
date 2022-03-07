@@ -1,6 +1,6 @@
 # Text Node App
 ## Formation
-Exercise 3
+Exercise 2
 
 ## Getting Started
 
